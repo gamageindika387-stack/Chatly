@@ -1,0 +1,6 @@
+{
+  "name": "Pulse",
+  "description": "Next-generation real-time messenger with voice notes, status stories, public channels, voice & video calling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
